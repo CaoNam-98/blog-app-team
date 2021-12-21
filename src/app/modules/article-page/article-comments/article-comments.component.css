@@ -1,0 +1,13 @@
+.comment-box {
+  box-shadow: 5px 5px 5px gainsboro;
+  border: 1px solid gray;
+  border-radius: 1rem;
+
+  background-color: rgba(245, 244, 244, 0.5);
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
